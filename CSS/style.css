@@ -51,6 +51,7 @@ form h4 {
   margin: auto;
   border-radius: 100%;
   border: var(--secondary) 3.5px outset;
+  padding: auto;
 }
 
 .height {
